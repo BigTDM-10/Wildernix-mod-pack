@@ -1,0 +1,25 @@
+This Version of this mod pack adds
+
+Boss music
+
+Volgos - Guardian of the Former Seas
+
+SlimeQueen - Gelatine Throne
+
+Elementals - Full Force 
+
+CorpseBloom - Rage of Tarunnk 
+
+Dragon - Raw, Unfiltered Calamity 
+
+MainTheme - The Tale of a Cruel World 
+
+
+To play these songs in game you must use these commands
+
+/playsound boss.CorpseBloom @p
+/playsound boss.Dragon @p
+/playsound boss.MainTheme @p
+/playsound boss.Elementals @p
+/playsound boss.SlimeQueen @p
+/playsound boss.Volgos @p
